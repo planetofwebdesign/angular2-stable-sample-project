@@ -3,6 +3,9 @@ Angular2 with TypeScript and Gulp
 
 A basic Angular2 application with Gulp as build system.
 
+[![A basic Angular2 application with Gulp as build system.
+](gulp_angular.jpg)]
+
 #### 1. Prerequisites
 
 *nodejs* must be installed on your system and the below global node packages must be installed:
