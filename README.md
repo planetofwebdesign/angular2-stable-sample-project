@@ -3,8 +3,7 @@ Angular2 with TypeScript and Gulp
 
 A basic Angular2 application with Gulp as build system.
 
-[![A basic Angular2 application with Gulp as build system.
-](gulp_angular.jpg)]
+(gulp_angular.jpg)
 
 #### 1. Prerequisites
 
