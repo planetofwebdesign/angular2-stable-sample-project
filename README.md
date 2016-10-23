@@ -29,9 +29,9 @@ A basic Angular2 application with Gulp as build system.
 
 
 
-Navigate to `angular2-typescript-gulp` directory:
+Navigate to `angular2-stable-sample-project` directory:
 
-> cd angular2-typescript-gulp
+> cd angular2-stable-sample-project
 
 #### 3. Installing dependencies
 
