@@ -29,7 +29,9 @@ A basic Angular2 application with Gulp as build system.
 
 > npm i -g ts-node
 
+Clone the repository 
 
+> $ git clone https://github.com/planetofwebdesign/angular2-stable-sample-project.git
 
 Navigate to `angular2-stable-sample-project` directory:
 
